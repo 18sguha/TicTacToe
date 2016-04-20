@@ -1,6 +1,6 @@
 //
 //  pickSpot.swift
-//  WordCollage
+
 //
 //  Created by Sreya Guha on 3/11/16.
 //  Copyright © 2016 Your School. All rights reserved.
